@@ -1,0 +1,21 @@
+{
+  "name": "@movexl/web3-wallet",
+  "version": "1.0.0",
+  "description": "Description for web3-wallet",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/movexl/web3-wallet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@movexl/manage-github-repo": "^1.0.0"
+  }
+}
