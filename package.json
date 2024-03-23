@@ -16,6 +16,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@movexl/manage-github-repo": "^1.0.0"
+    "@movexl/manage-github-repo": "^1.0.0",
+    "@movexl/web3-cex": "^1.0.0",
+    "@movexl/web3-dex": "^1.0.0",
+    "@movexl/web3-dapp": "^1.0.0",
+    "@movexl/web3-monitor": "^1.0.0",
+    "@movexl/web3-tool": "^1.0.0",
+    "@movexl/web3-kit": "^1.0.0",
+    "@movexl/web3-node-performance": "^1.0.0",
+    "@movexl/web3-node-monitor": "^1.0.0",
+    "@movexl/web3-node-install": "^1.0.0",
+    "@movexl/web3-node-guide": "^1.0.0",
+    "@movexl/web3-node-kit": "^1.0.0",
+    "@movexl/web3-node-tool": "^1.0.0"
   }
 }
