@@ -1,6 +1,6 @@
 {
   "name": "@movexl/web3-wallet",
-  "version": "1.0.29",
+  "version": "1.0.30",
   "description": "Description for web3-wallet",
   "main": "src/index.js",
   "scripts": {
